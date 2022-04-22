@@ -1,0 +1,5 @@
+[[redirects]]
+    from = "/*"
+    to = "https://pulfy.com/app/recommendations/:splat"
+    status = 301
+    force = true
